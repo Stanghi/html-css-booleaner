@@ -17,3 +17,29 @@ header{
 }
 /* /header */
 
+/* main */
+main{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+main h1{
+    font-size: 70px;
+}
+
+.title{
+    color: #959595;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.title span{
+    color: #23aae5;
+    font-weight: bold;
+}
+
+#date{
+    font-size: 15px;
+}
+
+/* /main */
