@@ -42,13 +42,10 @@ main h1{
     font-size: 15px;
 }
 
-/* .tim-photo{
-    width: 1050px;
+.tim-photo{
     height: 100%;
-    background-color: yellow;
-
-    margin-top: 20px;
-} */
+    margin-top: 30px;
+}
 
 .random-text{
     margin-top: 30px;
@@ -79,6 +76,14 @@ tr:nth-child(3){background-color: #b1e5f2}
 th{
     background-color: #20a9e5;
     color: white;
+}
+
+.interest{
+    color: #959595;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 30px;
+    width: 200px;
 }
 
 /* /main */
