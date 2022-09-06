@@ -80,8 +80,7 @@ th, td{
     max-width: 300px;
 }
 
-tr:nth-child(1){background-color: #b1e5f2}
-tr:nth-child(3){background-color: #b1e5f2}
+tr:nth-child(odd){background-color: #b1e5f2}
 
 th{
     background-color: #20a9e5;
