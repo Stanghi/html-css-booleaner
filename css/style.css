@@ -88,12 +88,29 @@ th{
 }
 /* /table */
 
-.interest{
-    color: #959595;
-    font-weight: bold;
-    font-size: 20px;
+/* /main */
+
+/* footer */
+footer{
     margin-top: 30px;
-    width: 200px;
+    margin-left: 20px;
+    color: #959595;
 }
 
-/* /main */
+.image-box{
+    width: 207px;
+    height: 150px;
+    background-color: red;
+    color: white;
+    margin: 10px 0;
+    padding: 20px;
+}
+
+#image-monitor{
+    background-image: url('../img/monitor.jpg');
+}
+
+#image-graph{
+    background-image: url('../img/graph.jpg');
+}
+/* /footer */
