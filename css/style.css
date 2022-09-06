@@ -23,6 +23,7 @@ main{
     margin-top: 30px;
 }
 
+/* title */
 main h1{
     font-size: 70px;
 }
@@ -41,7 +42,9 @@ main h1{
 #date{
     font-size: 15px;
 }
+/* /title */
 
+/* div photo of Tim */
 .tim-photo{
     height: 600px;
     text-align: left;
@@ -54,6 +57,8 @@ main h1{
     height: 100%;
     object-fit: cover;
 }
+/* /div photo of Tim */
+
 
 .random-text{
     margin-top: 30px;
@@ -67,6 +72,7 @@ main h1{
     margin-top: 30px;
 }
 
+/* table */
 table{
     border-collapse: collapse;
     width: 99%;
@@ -85,6 +91,7 @@ th{
     background-color: #20a9e5;
     color: white;
 }
+/* /table */
 
 .interest{
     color: #959595;
