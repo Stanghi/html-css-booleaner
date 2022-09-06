@@ -28,15 +28,14 @@ main h1{
     font-size: 70px;
 }
 
-.title{
+.under-title{
     color: #959595;
     font-weight: bold;
     font-size: 20px;
 }
 
-.title span{
+.under-title span{
     color: #23aae5;
-    font-weight: bold;
 }
 
 #date{
